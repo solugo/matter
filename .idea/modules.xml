@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/matter.iml" filepath="$PROJECT_DIR$/.idea/modules/matter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/matter-binary/matter-binary.iml" filepath="$PROJECT_DIR$/.idea/modules/matter-binary/matter-binary.iml" group="matter-binary" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/matter-binary/matter-binary_main.iml" filepath="$PROJECT_DIR$/.idea/modules/matter-binary/matter-binary_main.iml" group="matter-binary" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/matter-binary/matter-binary_test.iml" filepath="$PROJECT_DIR$/.idea/modules/matter-binary/matter-binary_test.iml" group="matter-binary" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/matter-core/matter-core.iml" filepath="$PROJECT_DIR$/.idea/modules/matter-core/matter-core.iml" group="matter-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/matter-core/matter-core_main.iml" filepath="$PROJECT_DIR$/.idea/modules/matter-core/matter-core_main.iml" group="matter-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/matter-core/matter-core_test.iml" filepath="$PROJECT_DIR$/.idea/modules/matter-core/matter-core_test.iml" group="matter-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/matter-json/matter-json_main.iml" filepath="$PROJECT_DIR$/.idea/modules/matter-json/matter-json_main.iml" group="matter-json" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/matter-json/matter-json_test.iml" filepath="$PROJECT_DIR$/.idea/modules/matter-json/matter-json_test.iml" group="matter-json" />
+    </modules>
+  </component>
+</project>

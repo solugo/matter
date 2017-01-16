@@ -1,0 +1,5 @@
+rootProject.name = 'matter'
+include 'matter-core'
+include 'matter-json'
+include 'matter-json'
+

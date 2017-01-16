@@ -1,0 +1,19 @@
+group 'de.solugo.matter'
+version '0.0.1'
+
+subprojects {
+    group rootProject.group
+    version rootProject.version
+
+    apply plugin: 'java'
+    sourceCompatibility = 1.8
+    targetCompatibility = 1.8
+
+    repositories {
+        mavenCentral()
+    }
+
+    tasks.withType(org.gradle.api.tasks.compile.JavaCompile) {
+        options.encoding = 'UTF-8'
+    }
+}
